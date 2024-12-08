@@ -1,5 +1,6 @@
 # Repository Name  
 Welcome to the [ark_labs] by Ark-techy!  
+Author - Arbaaz Khan
 
 ## About  
 This repository is a collection of coding projects, experiments, and ideas. It reflects my journey in exploring programming, web development, and creative problem-solving.  
