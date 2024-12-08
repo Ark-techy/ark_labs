@@ -1,5 +1,5 @@
 # Repository Name  
-Welcome to the [Repository Name] by Ark-techy!  
+Welcome to the [ark_labs] by Ark-techy!  
 
 ## About  
 This repository is a collection of coding projects, experiments, and ideas. It reflects my journey in exploring programming, web development, and creative problem-solving.  
